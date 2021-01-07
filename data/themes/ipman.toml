@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Ip man theme"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#2962ff"
+primary_dark = "#292a2d"
+
+# Menu
+menu_primary = "#252627"
+menu_text = "#a9a9b3"
+menu_text_active = "#a9a9b3"
+menu_title = "#a9a9b3"
+
+# Home sections
+home_section_odd = "rgb(41, 42, 45)"
+home_section_even = "rgb(64, 65, 66)"
+background = "#292a2d"

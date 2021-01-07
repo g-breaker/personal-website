@@ -1,5 +1,5 @@
 ---
-title: Posts 
+title: About
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -8,3 +8,4 @@ comments: false  # Show comments?
 ---
 
 This website contains my own notes on different subjects.
+
